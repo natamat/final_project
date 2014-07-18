@@ -11,6 +11,7 @@ div{
 border-style: solid;
 padding: 10%;
 padding-top: 0;
+padding-bottom: 1000px;
 }
 .ribbon {
  font-size: 16px !important;
@@ -65,11 +66,13 @@ padding-top: 0;
   text-align: center;
   padding-top: 0;
   padding-bottom: 0;
+  float: left; width:51%;
 }
 .break {
   border-style: dotted;
   padding:0%;
   text-align: center;
   padding-top: 0;
-  padding-bottom: 0;
+  padding-bottom: 0px;
+  float: right;width: 47%;
 }
