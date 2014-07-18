@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Daily SAT Question</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+  <body>
+    <div> 
+      <h1 class="ribbon">
+       <strong class="ribbon-content"><%= @sat_question.instructions%></strong>
+      </h1>
+        <p>
+        <%= @sat_question.question %>:
+        <a href= "http://sat.collegeboard.org/practice/sat-question-of-the-day">
+        <br>
+        <%= @sat_question.answer_choices %></a>
+        
+
+  </div>
+  
+</body>
+</html>
