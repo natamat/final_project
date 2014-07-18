@@ -76,3 +76,12 @@ padding-bottom: 1000px;
   padding-bottom: 0px;
   float: right;width: 47%;
 }
+.question{
+  border-style: dotted;
+  padding:0%;
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 0px;
+  float: right;width: 47%;
+
+}
