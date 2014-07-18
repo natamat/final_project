@@ -22,6 +22,3 @@ class Text
   )
   end
 end 
-
-text = Text.new("+19176174524")
-text.send
