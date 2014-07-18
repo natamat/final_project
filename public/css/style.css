@@ -59,6 +59,17 @@ padding-top: 0;
  right: 0;
  border-width: 1em 1em 0 0;
 }
-iframe {
+.countdown {
+  border-style: dotted;
+  padding:0%;
   text-align: center;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.break {
+  border-style: dotted;
+  padding:0%;
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 0;
 }
